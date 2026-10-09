@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*_scanner.html
+*_top.html
+*_bottom.html
+.DS_Store
