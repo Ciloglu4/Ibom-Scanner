@@ -36,8 +36,8 @@ Common field names are detected automatically. Otherwise use `--mpn-field`.
 ## Usage
 
 ```sh
-git clone <this repo>
-cd ibom-scanner
+git clone https://github.com/Ciloglu4/Ibom-Scanner.git
+cd Ibom-Scanner
 
 python ibom_scanner.py path/to/ibom.html
 # -> path/to/ibom_scanner.html

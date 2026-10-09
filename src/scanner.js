@@ -2,7 +2,7 @@
  * ibom-scanner: barcode / camera part finder for InteractiveHtmlBom pages.
  * Injected into an iBOM .html by ibom_scanner.py. Runs after iBOM has initialised and
  * builds its part list from the iBOM's own data, so it works for any board.
- * https://github.com/ (see README)
+ * https://github.com/Ciloglu4/Ibom-Scanner
  */
 (function () {
   "use strict";
